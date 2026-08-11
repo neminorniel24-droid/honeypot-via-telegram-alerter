@@ -115,7 +115,7 @@ This is an educational and portfolio project, not a production-hardened deployme
 
 ## Disclaimer
 
-This project is intended for use on infrastructure you own or are explicitly authorized to test. It is built and documented as part of ongoing cybersecurity coursework and certification preparation (JWPT). Do not deploy detection or deception tooling against systems without proper authorization.
+This project is intended for use on infrastructure you own or are explicitly authorized to test. It is built and documented as part of ongoing cybersecurity testing and research. Do not deploy detection or deception tooling against systems without proper authorization.
 
 ## Author
 
