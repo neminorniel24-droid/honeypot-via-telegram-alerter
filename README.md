@@ -24,7 +24,7 @@ Alert Worker
 └── Durable local fallback log on delivery failure
 │
 ▼
-Telegram Bot API
+Telegram Bot API(Bot Father)
 │
 ▼
 Real-time alert to operator
