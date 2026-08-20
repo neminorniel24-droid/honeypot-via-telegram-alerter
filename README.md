@@ -18,6 +18,7 @@ Honeypot Service (FastAPI)
 Redis Event Queue
 │
 ▼
+
 Alert Worker
 │
 ├── Deduplication (5-minute window per IP + trigger)
