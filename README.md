@@ -6,6 +6,7 @@ A lightweight, containerized deception system that detects reconnaissance and ex
 Internet / Attacker
 │
 ▼
+
 Honeypot Service (FastAPI)
 │
 ├── Fake admin panel (/wp-admin, /admin, /administrator)
@@ -13,6 +14,7 @@ Honeypot Service (FastAPI)
 └── Canary files (/.env, /backup.sql, /config.php.bak)
 │
 ▼
+
 Redis Event Queue
 │
 ▼
